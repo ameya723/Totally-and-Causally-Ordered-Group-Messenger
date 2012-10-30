@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="White">#ffffffff</color><string name="hello">Start Chatting</string>
+    <string name="app_name">SimpleChat</string>
+    
+
+</resources>
